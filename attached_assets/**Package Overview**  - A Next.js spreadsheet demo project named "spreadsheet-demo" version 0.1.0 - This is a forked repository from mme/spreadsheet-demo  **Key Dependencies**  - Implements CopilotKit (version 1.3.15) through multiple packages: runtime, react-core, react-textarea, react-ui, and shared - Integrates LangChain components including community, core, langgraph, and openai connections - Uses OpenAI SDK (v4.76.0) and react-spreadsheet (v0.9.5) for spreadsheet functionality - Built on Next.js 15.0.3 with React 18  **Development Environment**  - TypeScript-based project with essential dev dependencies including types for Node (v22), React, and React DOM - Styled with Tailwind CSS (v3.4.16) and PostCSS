@@ -1,0 +1,16 @@
+**Package Overview**
+
+- A Next.js spreadsheet demo project named "spreadsheet-demo" version 0.1.0
+- This is a forked repository from mme/spreadsheet-demo
+
+**Key Dependencies**
+
+- Implements CopilotKit (version 1.3.15) through multiple packages: runtime, react-core, react-textarea, react-ui, and shared
+- Integrates LangChain components including community, core, langgraph, and openai connections
+- Uses OpenAI SDK (v4.76.0) and react-spreadsheet (v0.9.5) for spreadsheet functionality
+- Built on Next.js 15.0.3 with React 18
+
+**Development Environment**
+
+- TypeScript-based project with essential dev dependencies including types for Node (v22), React, and React DOM
+- https://www.notion.so/rsdvops-tech-solutions/30c5435ef1734e5e872622b3eba785f7?v=1925cee99cb280c9bece000c4d33ae09&pvs=4#1a85cee99cb2804aa89ad3eff58f788d with Tailwind CSS (v3.4.16) and PostCSS
